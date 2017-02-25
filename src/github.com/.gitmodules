@@ -1,4 +1,0 @@
-#training sources
-[submodule "GoesToEleven/GolangTraining"]
-	path = GoesToEleven/GolangTraining
-	url = https://github.com/GoesToEleven/GolangTraining
